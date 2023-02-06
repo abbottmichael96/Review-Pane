@@ -1,0 +1,61 @@
+
+.panel {
+    background: #1e242e;
+    text-align: left;
+    padding: 40px;
+    border-radius: 30px;
+    width: 300px;
+    height: 300px;
+}
+
+.title {
+    font-size: 32px;
+    margin-bottom: 4px;
+}
+
+.star {
+    background: #272e3f;
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.bodytext {
+    color: #8e949e;
+    font-size: 13px;
+}
+
+.buttongroup {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.button {
+    background: #282e38;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+.button:hover {
+    background: #7d8796;
+}
+
+.button:focus{
+    background-color: #fb7b19;
+}
+
+.submit { 
+    background: #fb7b19;
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.submit:hover {
+    background-color: white;
+    color: #fb7b19;
+}
+
+
+
