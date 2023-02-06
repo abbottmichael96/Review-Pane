@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshots/1.PNGscreenshot.jpg)
-![](./Screenshots/2.PNGscreenshot.jpg)
+![](./Screenshots/1.PNG)
+![](./Screenshots/2.PNG)
 
 
 ### Links
@@ -41,9 +41,6 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
 - TypeScript
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
@@ -53,7 +50,6 @@ Users should be able to:
 ### What I learned
 
 This challenge has been an excellent way for me to demonstrate my basic React skills. For example my use of state management can keep track of the user rating across pages. 
-
 
 ```js
 const [selectedRating, setSelectedRating] = useState<Number>();
@@ -75,7 +71,7 @@ function ratingHandler(rating: number){
 
 This allows me to track the state of the user answer for future usage
 
-```
+```js
 <p className={styles.ratingOutOf5}> 
   You selected {selectedRating} out of 5
 </p>
