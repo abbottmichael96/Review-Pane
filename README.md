@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Challenge URL: [FrontendMentor.io](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GH Pages URL: [GH Pages](https://abbottmichael96.github.io/Review-Pane/)
 
 ## My process
 
